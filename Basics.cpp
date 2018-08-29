@@ -1,4 +1,5 @@
 #include <iostream>  // Provides functions for performing input and output operations.
+#include "BasicsHeader.h" //Header file, which houses function declarations.
 
 //Preprocessor directives, loads file with premade functions.
 
