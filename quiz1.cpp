@@ -15,8 +15,6 @@ void writeAnswer(int y)
 
 int main()
 {   
-    std::cout << "Test1" << std::endl;
-
     int a = readNumber();
     int b = readNumber();
     writeAnswer(a + b);
