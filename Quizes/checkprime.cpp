@@ -1,3 +1,5 @@
+//simple program that checks if a single digit is prime or not, crudely. 
+
 #include <iostream>
 
 bool isPrime(int x)

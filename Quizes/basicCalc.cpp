@@ -21,6 +21,7 @@ char getSymbol()
     return a;
 }
 
+//function that adds or subtracts based on user input
 void calculate(double x, double y, char z)
 {
 
