@@ -1,3 +1,5 @@
+//Test done to understand IO in C++.
+
 #include <iostream>
 
 int readNumber()
